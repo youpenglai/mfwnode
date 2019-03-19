@@ -1,1 +1,1 @@
-const grpcClient = require('./lib').Client;
+module.exports = require('./lib');

@@ -15,7 +15,6 @@
   "dependencies": {
     "@grpc/proto-loader": "^0.4.0",
     "bluebird": "^3.5.3",
-    "consul": "^0.34.1",
     "grpc": "^1.19.0",
     "request": "^2.88.0"
   }
