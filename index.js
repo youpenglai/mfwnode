@@ -1,1 +1,1 @@
-module.exports = require('./lib/consul');
+const grpcClient = require('./lib').Client;
