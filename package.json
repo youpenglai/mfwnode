@@ -1,6 +1,6 @@
 {
   "name": "@youpenglai/mfw",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "consul api info",
   "main": "index.js",
   "scripts": {
